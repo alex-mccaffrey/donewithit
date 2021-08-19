@@ -31,7 +31,8 @@ export default function App() {
         }}
       ></View>
 
-      <Text onPress={handlePress}>
+      {/* <Text onPress={handlePress}> */}
+      <Text>
         This is the homepage! This is the homepage! This is the homepage! This
         is the homepage! This is the homepage!
       </Text>
